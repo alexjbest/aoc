@@ -1,6 +1,3 @@
-import Lean.Data.Parsec
--- import Lean.Data.String.Basic
-
 open System
 open IO
 open FS
